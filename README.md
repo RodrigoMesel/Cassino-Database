@@ -1,9 +1,9 @@
 # GDI-PROJECT
 #
-## Construção de um banco de dados referente à estrutura de Cassinos
+## Project of the Data and information management course, in which we developed a database management system using SQL and PL SQL.
 #
-## Como testar:
+## How to run it:
 
-### Rodar arquivo create_tables.sql - cria as tabelas
-### Rodar arquivo povoamento.sql - povoa as tabelas
-### Agora com as tabelas preenchidas pode realizar as consultas
+### Execute the file create_tables.sql
+### Execute the file povoamento.sql
+### Now with the tables filled you can perform the queries, there are some examples of queries in the file queries.sql

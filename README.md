@@ -1,6 +1,4 @@
-# GDI-PROJECT
-#
-## Project of the Data and information management course, in which we developed a database management system using SQL and PL SQL.
+# Casino Database developed with SQL, PL and OR during the Data and Information Management course
 #
 ## How to run it:
 
